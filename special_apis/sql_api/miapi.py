@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3bf1e634a7606046587b6b1758dd1af3c7b3759f
 from flask import Flask, request
 from flask import jsonify
 import json
@@ -38,4 +42,8 @@ def insertamensaje():
 
 
 
+<<<<<<< HEAD
 app.run("0.0.0.0", 5000, debug=True)
+=======
+app.run("0.0.0.0", 5000, debug=True)
+>>>>>>> 3bf1e634a7606046587b6b1758dd1af3c7b3759f
